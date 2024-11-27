@@ -22,3 +22,5 @@ En primer lugar, es de alta importancia agregar el dataset 'MBA.csv' a la parte 
 Luego, dado que todo se encuentra de manera secuencial, basta con correr el código para observar los resultados.
 
 Tener un poco de paciencia! Algunos entrenamientos tardan un poco.
+
+NOTA: Hay algunas líneas hacia el final dedicadas a reiniciar el entorno de ejecución. Esto es por algunos problemas que se generaban por Tensorflow. Si estas líneas por algún motivo no funcionaran, y apareciera un error asociado a ello, se debería reiniciar el entorno de ejecución manualmente.
